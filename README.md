@@ -11,7 +11,8 @@ At the begin of each script the 'setUp.m' script is executed. Herein the main se
 - desired transversal slices of interest to include in the design mask
 - set which heads to include in the design database and on which heads the pulse should be tested (important for UP calculation).
 The three example target patterns from the manuscript (targetWB, targetNuclei and targetM) are provided.
-The B1, B0 and further datasets from three example heads can be downloaded from: https://www.dropbox.com/sh/6jlfdk5cz2ej7fo/AADAXuxOT5jA3L7Z32M4lcqXa?dl=0 
+The B1, B0 and further datasets from 18 subjects measured during this study can be downloaded from: https://keeper.mpdl.mpg.de/d/637883128cf54eb6ae2d/
+
 New datasets and target excitation pattern can be easily added.
 
 Detailed description of the four calculation steps:
