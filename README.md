@@ -2,7 +2,7 @@
 
 Titel of Paper 3
 
-As described in the manuscript (title), in this scripts the following calculation steps are implemented: transmit gradient waveform optimization and
+As described in the manuscript (Ref.), in this scripts the following calculation steps are implemented: transmit gradient waveform optimization and
 UP design using magnitude-least-square optimization or/and UP design fmincon and bloch equations. Each calculation step can be run independently from each other and
 is implemented in an own script.
 At the begin of each script the 'setUp.m' script is executed. Herein the main settings are defined. These main settings are (among others):
