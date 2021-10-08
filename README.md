@@ -2,9 +2,10 @@
 
 'OTUP: Target specific optimization of the transmit k-space trajectory for flexible universal parallel transmit RF pulse design'
 
-As described in the manuscript (Ref.), in this scripts the following calculation steps are implemented: transmit gradient waveform optimization and
+As described in the manuscript ('OTUP: Target specific optimization of the transmit k-space trajectory for flexible universal parallel transmit RF pulse design'), in these scripts the following calculation steps are implemented: transmit gradient waveform optimization and
 UP design using magnitude-least-square optimization or/and UP design fmincon and bloch equations. Each calculation step can be run independently from each other and
 is implemented in an own script.
+
 At the begin of each script the 'setUp.m' script is executed. Herein the main settings are defined. These main settings are (among others):
 - desired target excitation pattern
 - desired target flip angle
@@ -12,7 +13,7 @@ At the begin of each script the 'setUp.m' script is executed. Herein the main se
 - set which heads to include in the design database and on which heads the pulse should be tested (important for UP calculation).
 
 The three example target patterns from the manuscript (targetWB, targetNuclei and targetM) are provided the folder 'targets'.
-The 9.4T B1, B0 and further datasets from 18 subjects measured during this study can be downloaded from: https://keeper.mpdl.mpg.de/d/637883128cf54eb6ae2d/
+The B1, B0 and further datasets from 18 subjects measured at 9.4T during this study can be downloaded from: https://keeper.mpdl.mpg.de/d/637883128cf54eb6ae2d/
 
 New datasets and target excitation pattern can be easily added.
 
