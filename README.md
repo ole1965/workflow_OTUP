@@ -1,4 +1,4 @@
-# OTUPworkflow_gradOptimization_UPdesign
+# workflow_OTUP
 
 'OTUP: Target specific optimization of the transmit k-space trajectory for flexible universal parallel transmit RF pulse design'
 
