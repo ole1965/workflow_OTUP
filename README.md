@@ -1,6 +1,6 @@
-# workflow_gradOptimization_UPdesign
+# OTUPworkflow_gradOptimization_UPdesign
 
-Titel of Paper 3
+'OTUP: Target specific optimization of the transmit k-space trajectory for flexible universal parallel transmit RF pulse design'
 
 As described in the manuscript (Ref.), in this scripts the following calculation steps are implemented: transmit gradient waveform optimization and
 UP design using magnitude-least-square optimization or/and UP design fmincon and bloch equations. Each calculation step can be run independently from each other and
