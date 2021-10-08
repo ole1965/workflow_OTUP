@@ -57,3 +57,5 @@ Miscellaneous:
 	The resulting rmse will be stored in 'databaseSizeInvestigation\results'.
 	It is recommanded to run this script in [parallel on a cluster (if possible).
 	The 'evaluation.m' script to evaluate the results and create the diagramms from frigure 4 in the manuscript can be found in 'databaseSizeInvestigation'. 
+
+For any comments please drop me (Ole Geldschläger) an email (dexta-ole@web.de).
