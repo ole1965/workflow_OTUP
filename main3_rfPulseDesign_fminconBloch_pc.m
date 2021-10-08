@@ -1,4 +1,4 @@
-%Script to perform the UP design with the fmincon and the bloch equations as described in the manuscript and step 3 in the 'readMe.md'.
+%Script to perform the UP design with the fmincon and the bloch equations on a pc as described in the manuscript and step 3 in the 'readMe.md'.
 setUp;
 addpath('rfPulseDesign_fminconBloch\')
 %create design database
